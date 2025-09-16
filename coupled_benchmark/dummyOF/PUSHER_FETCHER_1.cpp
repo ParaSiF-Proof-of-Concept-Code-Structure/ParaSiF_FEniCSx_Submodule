@@ -5,7 +5,7 @@
  *      Author: Wendi Liu
  */
 
-#include "../../thirdParty/MUI/src/mui.h"
+#include "../../../../coupling/MUI/src/mui.h"
 #include <iostream>
 #include <fstream>
 #include "pusher_fetcher_config.h"
